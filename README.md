@@ -1,1 +1,1 @@
-# hacktool
+首先运行2.py输入网址把cookie存到cookie.txt,然后修改cookie，运行1.py，可以用修改后的cookie使用在网页
